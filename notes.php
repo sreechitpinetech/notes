@@ -1,6 +1,6 @@
 <?php 
 /**
- * git tocken      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
+ * git tocken      ghp_kmiFO5YS6gZ1EzK5gqOm5DBZLpW0Ro41WZq
  * 
  * What ?
  * Docker is an open source platform that enables developers to build, deploy, run, update and manage containers
